@@ -7,7 +7,7 @@ public static void main(String[]args)
   
   int min=a[0];
 
-  for(int i=0;i<a.length();i++){
+  for(int i=0;i<a.length;i++){
 
       if(a[i] < min){
 
